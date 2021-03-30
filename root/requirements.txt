@@ -1,0 +1,12 @@
+tqdm
+datetime
+anytree
+praw
+psaw
+nltk
+vaderSentiment
+matplotlib
+pytrends
+pandas
+numpy
+tweepy
